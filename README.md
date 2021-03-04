@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadarshsri&label=Profile%20views&color=0e75b6&style=flat" alt="imadarshsri" /> </p>
 
-- 🔭 I’m currently working on [Friday](https://github.com/avinashkranjan/Friday) & [Starbook](https://github.com/hashirshoaeb/star_book)
+- 🔭 I’m currently working on Third Party Authentication Using Flutter (OAuth2.0).
 
 - 🌱 I’m currently learning **Flutter, MongoDB and Time Series Analysis**
 
