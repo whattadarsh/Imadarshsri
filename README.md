@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Third Party Authentication Using Flutter (OAuth2.0).
 
-- 🌱 I’m currently learning **Flutter, MongoDB and Time Series Analysis**
+- 🌱 I’m currently learning **Node and MongoDB**
 
 - 💬 Ask me about **Flutter, ML, C++ and Python**
 
